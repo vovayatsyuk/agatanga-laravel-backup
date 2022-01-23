@@ -28,7 +28,7 @@ return [
     'unhealthy_backup_found_subject_title' => 'Important: The backups for :application_name are unhealthy. :problem',
     'unhealthy_backup_found_body' => 'The backups for :application_name on disk :disk_name are unhealthy.',
     'unhealthy_backup_found_not_reachable' => 'The backup destination cannot be reached. :error',
-    'unhealthy_backup_found_empty' => 'There are no backups of this application at all.',
+    'unhealthy_backup_found_empty' => 'There are no backups of this application at all',
     'unhealthy_backup_found_old' => 'The latest backup made on :date is considered too old.',
     'unhealthy_backup_found_unknown' => 'Sorry, an exact reason cannot be determined.',
     'unhealthy_backup_found_full' => 'The backups are using too much storage. Current usage is :disk_usage which is higher than the allowed limit of :disk_limit.',
