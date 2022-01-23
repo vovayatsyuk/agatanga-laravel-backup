@@ -42,4 +42,5 @@ return [
     'total_storage_used' => 'Total storage used',
     'newest_backup_date' => 'Newest backup date',
     'oldest_backup_date' => 'Oldest backup date',
+    'unhealthy_backup_found_empty' => 'There are no backups of this application at all',
 ];
