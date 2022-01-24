@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'exception_message' => 'Exception message: :message',
+    'exception_message' => 'test',
     'exception_trace' => 'Exception trace: :trace',
     'exception_message_title' => 'Exception message',
     'exception_trace_title' => 'Exception trace',
@@ -42,4 +42,5 @@ return [
     'total_storage_used' => 'Total storage used',
     'newest_backup_date' => 'Newest backup date',
     'oldest_backup_date' => 'Oldest backup date',
+    'exception_message_trace' => 'Exception trace',
 ];
